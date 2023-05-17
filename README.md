@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
-  <h1 aling="center">Hi 🙋‍♂️, I'm Kenner Espinal</h1>
+  <h1 align="center">Hi 🙋‍♂️, I'm Kenner Espinal</h1>
   <h3 aling="center">
     A passionated student fullstack developer from Colombia.
   </h3>
@@ -22,7 +22,7 @@
 
 --- 
 
-<h1 aling="center">🤔 About Me:</h1>
+<h1 align="center">🤔 About Me:</h1>
 - 💬 Ask me about ** MongoDB, Express, Angular, Node, SQL-Server, JavaScript, TypeScript **
 - 🌱 I’m currently learning ** REACT **
 
