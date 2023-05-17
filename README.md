@@ -64,7 +64,7 @@
 
   ![KennerEspinal GitHub stats](https://github-readme-stats.vercel.app/api?username=KennerEspinal&show_icons=true&theme=dark)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aKennerEspinal&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aKennerEspinal&hide_progress=true)](https://github.com/KennerEspinal/github-readme-stats)
 
 </div>
 
