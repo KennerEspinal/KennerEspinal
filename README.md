@@ -23,6 +23,7 @@
 --- 
 
 <h1 align="center">🤔 About Me:</h1>
+## 
 - 💬 Ask me about ** MongoDB, Express, Angular, Node, SQL-Server, JavaScript, TypeScript **
 - 🌱 I’m currently learning ** REACT **
 
