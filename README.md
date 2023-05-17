@@ -10,11 +10,11 @@
   <a href="https://twitter.com/EspinalKenner">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EspinlKenner?color=skyblue&label=EspinalKenner&logo=twitter&logoColor=skyblue&style=for-the-badge">
   </a>
-  <a href="https://twitter.com/EspinalKenner](https://www.facebook.com/kennerjose.espinalguillen.3">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Kenner%20Espinal?color=blue&label=Kenner%20Espinal&logo=facebook&logoColor=blue&style=for-the-badge">
+  <a href="https://www.facebook.com/kennerjose.espinalguillen.3">
+    <img alt="Facebook Follow" src="https://img.shields.io/twitter/follow/Kenner%20Espinal?color=blue&label=Kenner%20Espinal&logo=facebook&logoColor=blue&style=for-the-badge">
   </a>
-  <a href="https://twitter.com/EspinalKenner](https://www.instagram.com/kennerespinalcanta/">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Kenner%20Espinal?label=Kenner%20Espinal&logo=instagram&logoColor=green&style=for-the-badge">
+  <a href="https://www.instagram.com/kennerespinalcanta/">
+    <img alt="Instagram Follow" src="https://img.shields.io/twitter/follow/Kenner%20Espinal?label=Kenner%20Espinal&logo=instagram&logoColor=green&style=for-the-badge">
   </a>
 </div>
 
