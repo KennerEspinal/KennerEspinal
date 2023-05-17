@@ -61,7 +61,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KennerEspinal&theme=android-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 
-![KennerEspinal GitHub stats](https://github-readme-stats.vercel.app/api?KennerEspinal=anuraghazra&show_icons=true&theme=radical)
+![KennerEspinal GitHub stats](https://github-readme-stats.vercel.app/api?username=KennerEspinal&show_icons=true&theme=dark)
 
 <!--
 **KennerEspinal/KennerEspinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
