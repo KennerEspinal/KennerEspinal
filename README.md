@@ -59,7 +59,7 @@
 
 
 <div align="center">
-  <div align="center"> 📑 My Stats </div>
+  <h1 align="center"> 📑 My Stats </h1>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KennerEspinal&theme=android-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 
