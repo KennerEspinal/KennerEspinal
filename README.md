@@ -1,10 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
-  <h1 aling="center">Hi 👋, I'm Kenner Espinal</h1>
+  <h1 aling="center">Hi 🙋‍♂️, I'm Kenner Espinal</h1>
   <h3 aling="center">
     A passionate fullstack developer from Colombia.
   </h3>
 </div>
+
+---
 
 <div id="badge" align="center">
   <a href="https://twitter.com/EspinalKenner">
@@ -19,6 +21,7 @@
 </div>
 
 --- 
+
 ### 🤔 About Me: 
 - 💬 Ask me about ** MongoDB, Express, Angular, Node, SQL-Server, JavaScript, TypeScript **
 - 🌱 I’m currently learning ** REACT **
@@ -26,7 +29,7 @@
 
 <div align="center">
   <h3 aling="center">
-    ⚡ Lenguages and Tools
+    🛠⚡ Lenguages and Tools
   </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40">
@@ -51,7 +54,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp"  alt="CSharp" width="40" height="40">
   </div>
 </div>
-### Hi there 👋
+
+---
+
+### 📑 My Stats 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KennerEspinal&theme=android-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
+
+![KennerEspinal GitHub stats](https://github-readme-stats.vercel.app/api?KennerEspinal=anuraghazra&show_icons=true&theme=dark)
 
 <!--
 **KennerEspinal/KennerEspinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
