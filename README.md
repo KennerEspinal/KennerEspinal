@@ -1,4 +1,4 @@
-<div id="header" aling="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
   <h1 aling="center">Hi 👋, I'm Kenner Espinal</h1>
   <h3 aling="center">
@@ -6,7 +6,7 @@
   </h3>
 </div>
 
-<div id="badge" aling="center">
+<div id="badge" align="center">
   <a href="https://twitter.com/EspinalKenner">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EspinlKenner?color=skyblue&label=EspinalKenner&logo=twitter&logoColor=skyblue&style=for-the-badge">
   </a>
