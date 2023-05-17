@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
   <h1 aling="center">Hi 🙋‍♂️, I'm Kenner Espinal</h1>
   <h3 aling="center">
-    A passionate fullstack developer from Colombia.
+    A passionated student fullstack developer from Colombia.
   </h3>
 </div>
 
@@ -58,10 +58,16 @@
 ---
 
 ### 📑 My Stats 
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KennerEspinal&theme=android-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KennerEspinal&theme=android-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
+  ![KennerEspinal GitHub stats](https://github-readme-stats.vercel.app/api?username=KennerEspinal&show_icons=true&theme=dark)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aKennerEspinal&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![KennerEspinal GitHub stats](https://github-readme-stats.vercel.app/api?username=KennerEspinal&show_icons=true&theme=dark)
+</div>
+
 
 <!--
 **KennerEspinal/KennerEspinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
