@@ -35,14 +35,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node"  alt="Node" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TS"  alt="TypeScript" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS"  alt="JavaScript" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="GitHub"  alt="GitHub" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="CSS"  alt="CSS" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Tailwind"  alt="TailwindCSS" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Linux"  alt="Linux" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"  alt="TailwindCSS" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS"  alt="VStudio" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VSCode"  alt="VSCode" width="40" height="40">
   </div>
 </div>
 ### Hi there 👋
