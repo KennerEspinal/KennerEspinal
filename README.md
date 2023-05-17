@@ -59,13 +59,13 @@
 
 
 <div align="center">
-  ### 📑 My Stats  
+  <h1 align="center"> 📑 My Stats </h1>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KennerEspinal&theme=android-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 
   ![KennerEspinal GitHub stats](https://github-readme-stats.vercel.app/api?username=KennerEspinal&show_icons=true&theme=dark)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennerEspinal&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennerEspinal)](https://github.com/KennerEspinal/github-readme-stats)
 
 </div>
 
