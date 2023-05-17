@@ -21,7 +21,7 @@
 --- 
 ### 🤔 About Me: 
 - 💬 Ask me about ** MongoDB, Express, Angular, Node, SQL-Server, JavaScript, TypeScript **
-- - 🌱 I’m currently learning ** REACT **
+- 🌱 I’m currently learning ** REACT **
 
 
 <div align="center">
