@@ -18,6 +18,20 @@
   </a>
 </div>
 
+--- 
+### 🤔 About Me: 
+- 💬 Ask me about ** MongoDB, Express, Angular, Node, SQL-Server, JavaScript, TypeScript **
+- - 🌱 I’m currently learning ** REACT **
+
+
+<div align="center">
+  <h3 aling="center">
+    ⚡ Lenguages and Tools
+  </h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40">
+  </div>
+</div>
 ### Hi there 👋
 
 <!--
