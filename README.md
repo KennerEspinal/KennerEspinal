@@ -100,9 +100,9 @@
   
 ---
 
-<h4 aling="center">
+<h3 aling="center">
     🛠⚡ Operative System
-  </h4>
+  </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40">
   </div>
