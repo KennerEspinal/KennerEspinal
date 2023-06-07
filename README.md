@@ -88,11 +88,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS"  alt="VStudio" width="40" height="40"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="npm" width="40" height="40">
   </div>
-</div>
-
-
-</div>
-
+  
 ---
 
 <h3 aling="center">
@@ -101,8 +97,6 @@
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40">
   </div>
-</div>
-
 ---
 
 <h4 aling="center">
