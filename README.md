@@ -36,8 +36,7 @@
   </h1>
   
   <h3 aling="center">
-    ##
-    - 🛠⚡ Basics - Front-End
+    🛠⚡ Basics - Front-End
   </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="40" height="40">
@@ -48,7 +47,7 @@
   
   
   <h3 aling="center">
-    - 🛠⚡ Frameworks - Front-End
+    🛠⚡ Frameworks - Front-End
   </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40">
@@ -56,7 +55,7 @@
   </div>
   
   <h3 aling="center">
-    - 🛠⚡ Back-End
+    🛠⚡ Back-End
   </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node"  alt="Node" width="40" height="40">
@@ -68,7 +67,7 @@
   </div>
   
   <h3 aling="center">
-    - 🛠⚡ Styles
+    🛠⚡ Styles
   </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40">
@@ -77,7 +76,7 @@
 </div>
 
 <h3 aling="center">
-    - 🛠⚡ Tools
+    🛠⚡ Tools
   </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40">
@@ -87,7 +86,7 @@
 </div>
 
 <h3 aling="center">
-    - 🛠⚡ Version Controller
+    🛠⚡ Version Controller
   </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40">
@@ -95,7 +94,7 @@
 </div>
 
 <h4 aling="center">
-    - 🛠⚡ Operative System
+    🛠⚡ Operative System
   </h4>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40">
