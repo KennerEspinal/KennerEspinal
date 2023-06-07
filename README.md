@@ -53,6 +53,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT"  alt="React" width="40" height="40">
   </div>
+  
 ---
   
   <h3 aling="center">
@@ -66,6 +67,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp"  alt="CSharp" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40">
   </div>
+  
 ---
   
   <h3 aling="center">
@@ -76,6 +78,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"  alt="TailwindCSS" width="40" height="40">
   </div>
 </div>
+
 ---
 
 <h3 aling="center">
@@ -87,6 +90,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="npm" width="40" height="40">
   </div>
 </div>
+
 ---
 
 <h3 aling="center">
@@ -96,6 +100,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40">
   </div>
 </div>
+
 ---
 
 <h4 aling="center">
