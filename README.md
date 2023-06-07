@@ -77,8 +77,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"  alt="TailwindCSS" width="40" height="40">
   </div>
-</div>
-
+  
 ---
 
 <h3 aling="center">
@@ -89,6 +88,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS"  alt="VStudio" width="40" height="40"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="npm" width="40" height="40">
   </div>
+</div>
+
+
 </div>
 
 ---
