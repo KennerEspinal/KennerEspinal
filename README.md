@@ -37,7 +37,7 @@
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express"  alt="Express" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40">
+    
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node"  alt="Node" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TS"  alt="TypeScript" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS"  alt="JavaScript" width="40" height="40">
@@ -55,6 +55,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="FireBase"  alt="FireBase" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp"  alt="CSharp" width="40" height="40">
+  </div>
+  <h3 aling="center">
+    🛠⚡ Frameworks
+  </h3>
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40">
   </div>
 </div>
 
