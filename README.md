@@ -45,7 +45,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TS"  alt="TypeScript" width="40" height="40">
   </div>
   
-  
+---
   <h3 aling="center">
     🛠⚡ Frameworks - Front-End
   </h3>
@@ -53,6 +53,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT"  alt="React" width="40" height="40">
   </div>
+---
   
   <h3 aling="center">
     🛠⚡ Back-End
@@ -65,6 +66,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp"  alt="CSharp" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40">
   </div>
+---
   
   <h3 aling="center">
     🛠⚡ Styles
@@ -74,6 +76,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"  alt="TailwindCSS" width="40" height="40">
   </div>
 </div>
+---
 
 <h3 aling="center">
     🛠⚡ Tools
@@ -84,6 +87,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="npm" width="40" height="40">
   </div>
 </div>
+---
 
 <h3 aling="center">
     🛠⚡ Version Controller
@@ -92,6 +96,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40">
   </div>
 </div>
+---
 
 <h4 aling="center">
     🛠⚡ Operative System
