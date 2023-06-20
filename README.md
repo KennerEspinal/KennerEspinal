@@ -34,82 +34,29 @@
   <h1 aling="center">
     🛠⚡ Lenguages and Tools
   </h1>
-  
-  <h3 aling="center">
-    🛠⚡ Basics - Front-End
-  </h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS"  alt="JavaScript" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TS"  alt="TypeScript" width="40" height="40">
-  </div>
-  
----
-  <h3 aling="center">
-    🛠⚡ Frameworks - Front-End
-  </h3>
-  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT"  alt="React" width="40" height="40">
-  </div>
-  
----
-  
-  <h3 aling="center">
-    🛠⚡ Back-End
-  </h3>
-  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node"  alt="Node" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="FireBase"  alt="FireBase" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp"  alt="CSharp" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40">
-  </div>
-  
----
-  
-  <h3 aling="center">
-    🛠⚡ Styles
-  </h3>
-  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"  alt="TailwindCSS" width="40" height="40">
-  </div>
-  
----
-
-<h3 aling="center">
-    🛠⚡ Tools
-  </h3>
-  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS"  alt="VStudio" width="40" height="40"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="npm" width="40" height="40">
-  </div>
-  
----
-
-<h3 aling="center">
-    🛠⚡ Version Controller
-  </h3>
-  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40">
-  </div>
-  
----
-
-<h3 aling="center">
-    🛠⚡ Operative System
-  </h3>
-  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40">
   </div>
-</div>
-
+  
 ---
-
 
 <div align="center">
   <h1 align="center"> 📑 My Stats </h1>
