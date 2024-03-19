@@ -27,7 +27,7 @@
 
 ## 
 - 💬 Ask me about **MongoDB, Express, Angular, Node, SQL-Server, JavaScript, TypeScript**
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **SPRING BOOT AND MICRONAUT**
 
 
 <div align="center">
