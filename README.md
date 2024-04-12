@@ -60,28 +60,20 @@
 
 <div align="center">
   <h1 align="center"> 📑 My Stats </h1>
+  <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KennerEspinal&show_icons=true&locale=en&theme=dark" alt="KennerEspinal" /></p>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KennerEspinal&theme=android-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
-
-  ![KennerEspinal GitHub stats](https://github-readme-stats.vercel.app/api?username=KennerEspinal&show_icons=true&theme=dark)
+  <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KennerEspinal&theme=dark" alt="KennerEspinal" /></p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennerEspinal&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+  <div align="center">
+  <a href="https://github.com/KennerEspinal">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KennerEspinal&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KennerEspinal&theme=2077" height="180em" />
+  </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=KennerEspinal&theme=nightowl"/>
   
 </div>
 
-
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KennerEspinal&show_icons=true&locale=en&theme=dark" alt="itsrusty" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KennerEspinal&theme=dark" alt="itsrusty" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/KennerEspinal">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KennerEspinal&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KennerEspinal&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=KennerEspinal&theme=nightowl"/>
 
 
