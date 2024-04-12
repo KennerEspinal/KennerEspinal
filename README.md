@@ -1,12 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
-  <h1 align="center">Hi 🙋‍♂️, I'm Kenner Espinal</h1>
-  <h3 aling="center">
+  <p align="center">Hi 🙋‍♂️, I'm Kenner Espinal</p>
+  <p aling="center">
     A passionated student fullstack developer from Colombia.
-  </h3>
+  </p>
 </div>
-
----
 
 <div id="badge" align="center">
   <a href="https://twitter.com/EspinalKenner">
@@ -20,57 +18,45 @@
   </a>
 </div>
 
---- 
-<div align="center">
-<h1 align="center">🤔 About Me:</h1>
-</div>
+---
+
+<p align="center">🤔 About Me:</p>
 
 ## 
-- 💬 Ask me about **MongoDB, Express, Angular, Node, SQL-Server, JavaScript, TypeScript**
+- 💬 Ask me about **Angular, Node, SQL-Server, JavaScript, TypeScript, MongoDB, Express, **
 - 🌱 I’m currently learning **SPRING BOOT AND MICRONAUT**
 
+---
 
-<div align="center">
-  <h1 aling="center">
-    🛠⚡ Lenguages and Tools
-  </h1>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS"  alt="JavaScript" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TS"  alt="TypeScript" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular"  alt="Angular" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT"  alt="React" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node"  alt="Node" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="FireBase"  alt="FireBase" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp"  alt="CSharp" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"  alt="TailwindCSS" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS"  alt="VStudio" width="40" height="40"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="npm" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40">
-  </div>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies and Skills👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,js,ts,nodejs,gradle,java,spring,fastapi,mongodb,postgres,mysql,firebase,postman,astro,angular,py,tailwind,bootstrap,vscode,idea,docker,figma,selenium,sequelize&perline=14" />
+  </a>
+</p>
   
 ---
 
 <div align="center">
-  <h1 align="center"> 📑 My Stats </h1>
-  <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KennerEspinal&show_icons=true&locale=en&theme=dark" alt="KennerEspinal" /></p>
+  <p align="center"> 📑 My Stats </p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
   
-  <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KennerEspinal&theme=dark" alt="KennerEspinal" /></p>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
   <div align="center">
   <a href="https://github.com/KennerEspinal">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KennerEspinal&theme=2077" height="180em" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KennerEspinal&theme=2077" height="180em" />
   </div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+    
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><p align="center">⚡Activity Graph:</p>
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=KennerEspinal&theme=nightowl"/>
   
 </div>
