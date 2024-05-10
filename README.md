@@ -13,7 +13,7 @@
   <a href="https://discord.com/users/709588430543257630">
     <img alt="Facebook Follow" src="https://skillicons.dev/icons?i=discord&perline=14">
   </a>
-  <a href="https://www.instagram.com/kennerespinalcanta/">
+  <a href="https://www.instagram.com/kennerespinal/">
     <img alt="Instagram Follow" src="https://skillicons.dev/icons?i=instagram&perline=14">
   </a>
   <a href="mailto:kennerespinalg@gmail.com?Subject=CONTACTANDO%20DESDE%20GITHUB">
