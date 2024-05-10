@@ -8,13 +8,16 @@
 
 <div id="badge" align="center">
   <a href="https://twitter.com/EspinalKenner">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EspinlKenner?color=skyblue&label=EspinalKenner&logo=twitter&logoColor=skyblue&style=for-the-badge">
+    <img alt="Twitter Follow" src="https://skillicons.dev/icons?i=twitter&perline=14">
   </a>
   <a href="https://www.facebook.com/kennerjose.espinalguillen.3">
-    <img alt="Facebook Follow" src="https://img.shields.io/twitter/follow/Kenner%20Espinal?color=blue&label=Kenner%20Espinal&logo=facebook&logoColor=blue&style=for-the-badge">
+    <img alt="Facebook Follow" src="https://skillicons.dev/icons?i=facebook&perline=14">
   </a>
   <a href="https://www.instagram.com/kennerespinalcanta/">
-    <img alt="Instagram Follow" src="https://img.shields.io/twitter/follow/Kenner%20Espinal?label=Kenner%20Espinal&logo=instagram&logoColor=green&style=for-the-badge">
+    <img alt="Instagram Follow" src="https://skillicons.dev/icons?i=instagram&perline=14">
+  </a>
+  <a href="mailto:kennerespinalg@gmail.com?Subject=CONTACTANDO%20DESDE%20GITHUB">
+    <img alt="Instagram Follow" src="https://skillicons.dev/icons?i=instagram&perline=14">
   </a>
 </div>
 
