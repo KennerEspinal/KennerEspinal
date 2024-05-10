@@ -6,7 +6,7 @@
   </p>
 </div>
 
-<div id="badge" align="center">
+<div id="badge" align="center" flex="flex-warp gap-2">
   <a href="https://twitter.com/EspinalKenner">
     <img alt="Twitter Follow" src="https://skillicons.dev/icons?i=twitter&perline=14">
   </a>
