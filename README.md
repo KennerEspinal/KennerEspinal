@@ -23,7 +23,7 @@
 <p align="center">🤔 About Me:</p>
 
 ## 
-- 💬 Ask me about **Angular, Node, SQL-Server, JavaScript, TypeScript, MongoDB, Express, **
+- 💬 Ask me about | Angular | Node | SQL-Server | JavaScript | TypeScript | MongoDB | Express |
 - 🌱 I’m currently learning **SPRING BOOT AND MICRONAUT**
 
 ---
