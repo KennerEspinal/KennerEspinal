@@ -10,8 +10,8 @@
   <a href="https://twitter.com/EspinalKenner">
     <img alt="Twitter Follow" src="https://skillicons.dev/icons?i=twitter&perline=14">
   </a>
-  <a href="https://www.facebook.com/kennerjose.espinalguillen.3">
-    <img alt="Facebook Follow" src="https://skillicons.dev/icons?i=fb&perline=14">
+  <a href="https://discord.com/users/709588430543257630">
+    <img alt="Facebook Follow" src="https://skillicons.dev/icons?i=dc&perline=14">
   </a>
   <a href="https://www.instagram.com/kennerespinalcanta/">
     <img alt="Instagram Follow" src="https://skillicons.dev/icons?i=instagram&perline=14">
