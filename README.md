@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,js,ts,nodejs,gradle,java,spring,fastapi,mongodb,postgres,mysql,firebase,postman,astro,angular,py,tailwind,bootstrap,vscode,idea,docker,figma,selenium,sequelize&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,js,ts,nodejs,gradle,java,spring,fastapi,mongodb,postgres,mysql,firebase,postman,astro,angular,py,tailwind,bootstrap,vscode,idea,docker,figma,selenium,sequelize,powershell,ubuntu&perline=14" />
   </a>
 </p>
   
